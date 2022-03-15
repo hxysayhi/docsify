@@ -4,3 +4,5 @@
 
 this is a test!
 
+[guide](guide.md)
+
